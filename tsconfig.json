@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+      "module": "commonjs",
+      "target": "es2017",
+      "outDir": "build/server",
+      "sourceMap": false,
+      "esModuleInterop": true,
+      "jsx": "react",
+    },
+    "compileOnSave": true,
+    "include": [
+      "src/server"
+    ],
+  }
